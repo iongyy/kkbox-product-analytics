@@ -1,0 +1,6 @@
+# Данные не публикуем (правила конкурса Kaggle + объём 30+ ГБ)
+data/
+
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
